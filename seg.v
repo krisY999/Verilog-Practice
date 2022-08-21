@@ -3,7 +3,7 @@ module seg(
 		rst_n,
 		
 		key,
-		
+		  //
 		led,
 		seg,
 		seg_sel
